@@ -122,6 +122,9 @@ header {
   padding: 0.5em;
   font-size: 1.2rem;
 }
+#fourthsection {
+  display: inline-block;
+}
 
 #fourthsection h3 {
   font-family: "Montserrat", sans-serif;
@@ -151,6 +154,7 @@ header {
   border: 1px solid silver;
   border-radius: 1%;
   margin: 2em;
+  display: inline-block;
 }
 
 #fifthsection h3 {
@@ -165,6 +169,36 @@ header {
 }
 
 #fifthsection p {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.65em;
+  padding: 0.5em;
+  font-size: 1.2rem;
+  color: #393d41;
+  padding: 1em;
+  margin-bottom: 1em;
+}
+
+#sixthsection {
+  border: 1px solid silver;
+  border-radius: 1%;
+  margin: 2em;
+}
+
+#sixthsection h3 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  color: #25a2c3;
+  line-height: 1.5em;
+  font-size: 20px;
+  margin: 1em;
+  padding: 0;
+}
+
+#sixthsection p {
   font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
