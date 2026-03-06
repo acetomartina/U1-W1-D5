@@ -84,12 +84,11 @@ header {
   padding: 0.5em;
   font-size: 1.2rem;
   color: #393d41;
+  margin-bottom: 2em;
 }
 
 #notebook {
-  margin: 0;
-  margin-top: 2em;
-  margin-bottom: 2em;
+  margin: 3em 0em;
   border-radius: 70%;
 }
 
@@ -132,10 +131,10 @@ header {
 #fourthsection {
   border: 1px solid silver;
   border-radius: 1%;
-  margin: 1em;
+  margin: 2em;
 }
-#fourthsection .iltuopc {
-  max-width: 446px;
+.photo {
+  max-width: 415px;
 }
 
 #fourthsection h3 {
@@ -145,7 +144,7 @@ header {
   color: #25a2c3;
   line-height: 1.5em;
   font-size: 20px;
-  margin-top: 1em;
+  margin: 1em;
   padding: 0;
 }
 
@@ -166,10 +165,6 @@ header {
   border: 1px solid silver;
   border-radius: 1%;
   margin: 1em;
-}
-
-#fifthsection .imparaora {
-  max-width: 446px;
 }
 
 #fifthsection h3 {
@@ -200,10 +195,6 @@ header {
   border: 1px solid silver;
   border-radius: 1%;
   margin: 1em;
-}
-
-#sixthsection .desk {
-  max-width: 446px;
 }
 
 #sixthsection h3 {
