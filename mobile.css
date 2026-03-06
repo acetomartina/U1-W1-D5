@@ -134,7 +134,7 @@ header {
   margin: 2em;
 }
 .photo {
-  max-width: 415px;
+  max-width: 414px;
 }
 
 #fourthsection h3 {
@@ -164,7 +164,7 @@ header {
 #fifthsection {
   border: 1px solid silver;
   border-radius: 1%;
-  margin: 1em;
+  margin: 2em;
 }
 
 #fifthsection h3 {
@@ -174,7 +174,7 @@ header {
   color: #25a2c3;
   line-height: 1.5em;
   font-size: 20px;
-  margin-top: 1em;
+  margin: 1em;
   padding: 0;
 }
 
@@ -194,7 +194,7 @@ header {
 #sixthsection {
   border: 1px solid silver;
   border-radius: 1%;
-  margin: 1em;
+  margin: 2em;
 }
 
 #sixthsection h3 {
@@ -204,7 +204,7 @@ header {
   color: #25a2c3;
   line-height: 1.5em;
   font-size: 20px;
-  margin-top: 1em;
+  margin: 1em;
   padding: 0;
 }
 

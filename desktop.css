@@ -1,0 +1,88 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+
+#layout {
+  max-width: 1440px;
+  text-align: center;
+  margin: auto;
+}
+
+header {
+  background-color: black;
+  height: 6em;
+}
+
+#logo {
+  width: 6em;
+  padding: 2em;
+}
+
+#firstsection {
+  background-image: url(./assets/banner.jpg);
+  background-size: cover;
+  max-width: 1440px;
+  height: 15em;
+  padding: 8em;
+}
+
+#firstsection h1 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  color: #25a2c3;
+  line-height: 1.5em;
+  padding: 0.5em;
+  font-size: 25px;
+}
+
+#firstsection p {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.65em;
+  padding: 0.5em;
+  font-size: 1.2rem;
+  color: #393d41;
+}
+
+#firstsection button {
+  height: 3em;
+  margin: 1em;
+  background-color: #f04c2f;
+  width: 11em;
+  border: transparent;
+  color: white;
+  border-radius: 10px;
+}
+
+#secondsection h2 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  color: #25a2c3;
+  line-height: 1.5em;
+  padding: 1em;
+  font-size: 20px;
+}
+
+#secondsection p {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.65em;
+  padding: 0.5em;
+  font-size: 1.2rem;
+  color: #393d41;
+  margin-bottom: 2em;
+}
+
+#pc {
+  margin: 3em 0em;
+  border-radius: 70%;
+}
+
+#notebook {
+  float: left;
+}
