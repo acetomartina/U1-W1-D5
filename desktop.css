@@ -122,3 +122,57 @@ header {
   padding: 0.5em;
   font-size: 1.2rem;
 }
+
+#fourthsection h3 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  color: #25a2c3;
+  line-height: 1.5em;
+  font-size: 20px;
+  margin: 1em;
+  padding: 0;
+}
+
+#fourthsection p {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.65em;
+  padding: 0.5em;
+  font-size: 1.2rem;
+  color: #393d41;
+  padding: 1em;
+  margin-bottom: 1em;
+}
+
+#fifthsection {
+  border: 1px solid silver;
+  border-radius: 1%;
+  margin: 2em;
+}
+
+#fifthsection h3 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  color: #25a2c3;
+  line-height: 1.5em;
+  font-size: 20px;
+  margin: 1em;
+  padding: 0;
+}
+
+#fifthsection p {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.65em;
+  padding: 0.5em;
+  font-size: 1.2rem;
+  color: #393d41;
+  padding: 1em;
+  margin-bottom: 1em;
+}
